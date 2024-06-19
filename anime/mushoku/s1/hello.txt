@@ -1,2 +1,4 @@
 Aqua Heartia
 Water Sphere
+Fireball
+Nami
